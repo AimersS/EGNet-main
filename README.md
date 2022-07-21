@@ -1,5 +1,8 @@
-# EGNet-main
-chengyihua RT-Gene-main
+# RT-GENE-main
+#EasyGaze Net
+
+Chengyihua RT-Gene-main(https://github.com/yihuacheng/RT-Gene)
+Self learning and baseline
 ![image](https://user-images.githubusercontent.com/95728828/178435734-cdc175f7-7d05-4d6d-baa6-16903d5e050d.png)
 
 ## Introduction
