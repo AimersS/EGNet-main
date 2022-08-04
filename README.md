@@ -3,7 +3,9 @@
 
 Chengyihua RT-Gene-main(https://github.com/yihuacheng/RT-Gene)
 Self learning and baseline
-=Modified the problem of using label file directly for facial feature extraction=
+
+Modified the problem of using label file directly for facial feature extraction
+
 ![image](https://user-images.githubusercontent.com/95728828/178435734-cdc175f7-7d05-4d6d-baa6-16903d5e050d.png)
 
 ## Introduction
