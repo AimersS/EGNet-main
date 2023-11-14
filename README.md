@@ -1,7 +1,7 @@
 # RT-GENE-main
 #EasyGaze Net
 
-Chengyihua RT-Gene-main(https://github.com/yihuacheng/RT-Gene)
+Chengyihua RT-Gene-main
 Self learning and baseline
 
 Modified the problem of using label file directly for facial feature extraction
